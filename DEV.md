@@ -6,6 +6,9 @@
 [**English**](https://github.com/M-U-C-K-A/SAE301/blob/main/README.en.md)
 [**Programmation**](https://github.com/M-U-C-K-A/SAE301/blob/main/DEV.md)
 
+
+> **Note** Ce README décrit les différentes parties du code utilisées dans le développement de notre site web sur l'écocitoyenneté. Il est important de noter que ce README ne prétend pas couvrir l'intégralité du code utilisé dans ce projet et qu'il ne s'agit que d'une sélection de parties de code choisies pour leur pertinence dans l'explication de la structure et des fonctionnalités du site.
+
 ## Code Overview
 Notre projet, intitulé "**LookDown**", est un site web sur l'écocitoyenneté développé en HTML, CSS et JavaScript. Il a été conçu dans le but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écocitoyenneté. Il comporte deux parcours : "**Film**" et "**Agir**".
 
