@@ -8,7 +8,7 @@ Les versions actuellement prises en charge sont les suivantes:
 | Version | Supported          |
 | ------- | ------------------ |
 | Google Chrome |	:white_check_mark: |
-| Mozilla | Firefox	:white_check_mark: |
+| Mozilla Firefox |	:white_check_mark: |
 | Safari	| :white_check_mark: |
 | Microsoft Edge	| :white_check_mark: |
 | Internet Explorer	| :x: |
