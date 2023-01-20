@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg) 
+![Version](https://img.shields.io/badge/version-1.0.1-green.svg) 
 ![License](https://img.shields.io/badge/license-MIT-green.svg) 
 ![SAE301](https://img.shields.io/github/repo-size/M-U-C-K-A/SAE301)
 
