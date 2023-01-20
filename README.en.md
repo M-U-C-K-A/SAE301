@@ -9,8 +9,8 @@
 A website about eco-citizenship, created as part of our studies. Its goal is to raise awareness about the importance of protecting our environment based on a movie about eco-citizenship. It is developed in HTML, CSS, JavaScript and uses libraries such as AOS.
 It has two paths:
 
-`"Film"` path: It presents the selected film and information about it. It also includes information about our project and the reasons why we created it.
-`"Act"` path: It offers quizzes on eco-citizenship and information on concrete actions that everyone can take to protect the environment. It also allows you to commit to taking actions and share your commitment with your friends on social media.
+1- `"Film"` path: It presents the selected film and information about it. It also includes information about our project and the reasons why we created it.
+2- `"Act"` path: It offers quizzes on eco-citizenship and information on concrete actions that everyone can take to protect the environment. It also allows you to commit to taking actions and share your commitment with your friends on social media.
 
 ## Installation
 Download or clone this repository
