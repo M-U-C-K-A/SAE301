@@ -21,3 +21,30 @@ Notre projet a été conçu avec une charte graphique sobre et élégante pour r
 > Pour les couleurs, nous avons choisi un fond de couleur noir (#1e1e1e) pour représenter l'élégance et la sophistication, et une couleur blanche (#f5f5f5) pour le texte afin de garantir une bonne lisibilité. La couleur principale utilisée dans le projet est le vert (#81cd79) pour représenter l'écologie et la nature.
 
 > Pour les boutons, nous avons utilisé deux classes de boutons différentes, .mainButton et .secondaryButton. Les boutons principaux ont une couleur de fond verte (#81cd79) et une bordure verte pour correspondre à la couleur principale du site, tandis que les boutons secondaires ont une couleur de fond transparente et une bordure verte pour les différencier des boutons principaux.
+> Pour créer les boutons, nous avons utilisé les éléments HTML <button> et leur avons donné une classe pour pouvoir les styliser avec CSS. Nous avons également utilisé la propriété :hover pour ajouter une animation lorsque l'utilisateur passe sa souris sur le bouton.
+  
+```css
+button {
+    height: 2em;
+    width: 8em;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+button:hover {
+    transition: .2s;
+    transform: scale(110%);
+}
+
+.mainButton {
+    background-color: #81cd79;
+    color: white;
+    border: 2px #81cd79 solid;
+}
+
+.secondaryButton {
+    background-color: transparent;
+    color: white;
+    border: 2px #81cd79 solid;
+}
+```
