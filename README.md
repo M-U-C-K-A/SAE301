@@ -16,12 +16,11 @@ Ouvrez votre navigateur et accédez à l'adresse http://localhost:3000 pour voir
 
 ## Charte graphique
 Notre projet Look Down a été conçu avec une charte graphique sobre et élégante pour refléter l'importance de l'écologie et la nécessité de protéger notre environnement.
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
->Les couleurs principales utilisées dans le projet sont 
->- le vert #81CD79 utilisé pour représenter l'écologie et la nature,
->- le blanc #F5F5F5 est pour représenter la pureté du texte,
->- le noir #1E1E1E pour représenter l'élégance et la sophistication.
+> Les couleurs principales utilisées dans le projet sont 
+>- le vert `#81CD79` utilisé pour représenter l'écologie et la nature,
+>- le blanc `#F5F5F5` est pour représenter la pureté du texte,
+>- le noir `#1E1E1E` pour représenter l'élégance et la sophistication.
 
 >- La typographie utilisée pour les titres est "Outfit Medium Semibold" pour souligner l'importance des informations présentées. 
 >- Les paragraphes sont écrits en "Montserrat Regular" pour garantir une lisibilité optimale.
@@ -29,13 +28,14 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 En utilisant une combinaison de couleurs vives et de typographie soignée, nous avons créé un look professionnel et convaincant qui reflète l'importance de l'écologie et de la préservation de notre environnement. Nous espérons que vous apprécierez notre design tout autant que nous l'avons apprécié en le créant.
 
 ## Contribution
+
 Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site. Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous:
 <ol>
 <li>Faites un fork de ce dépôt</li>
 <li>Créez une nouvelle branche ( git checkout -b my-new-feature )</li>
 <li>Faites des modifications et commit ( git commit -am 'Add some feature' )</li>
 <li>Poussez sur votre branche ( git push origin my-new-feature )</li>
-  <li>Faites une demande de tirage ( pull request )</li>
+ <li>Faites une demande de tirage ( pull request )</li>
 </ol>
 
 ## Crédits
