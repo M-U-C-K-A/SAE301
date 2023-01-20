@@ -31,7 +31,7 @@ Notre projet a été conçu avec une charte graphique sobre et élégante pour r
 <button class="secondaryButton">Comment Agir</button>
   ```
   
-``HTML``
+``CSS``
   
   ```css
 button {
