@@ -23,6 +23,7 @@ Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site
 <li>Poussez sur votre branche (git push origin my-new-feature)</li>
   <li>Faites une demande de tirage (pull request)</li>
 </ol>
+
 ## Crédits
 <ul>
 <li>Nabil Boukhorissa a été responsable de la conception et de la mise en place de la structure globale du site, ainsi que de la mise en place des différents quizz et des fonctionnalités d'engagement.</li>
