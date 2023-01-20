@@ -7,10 +7,11 @@ Les versions actuellement prises en charge sont les suivantes:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Google Chrome |	:white_check_mark: |
+| Mozilla | Firefox	:white_check_mark: |
+| Safari	| :white_check_mark: |
+| Microsoft Edge	| :white_check_mark: |
+| Internet Explorer	| :x: |
 
 ## Reporting a Vulnerability
 Si vous découvrez une vulnérabilité de sécurité dans notre projet, 
