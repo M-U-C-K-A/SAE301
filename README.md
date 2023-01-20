@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg) 
+![License](https://img.shields.io/badge/license-MIT-green.svg) 
+![Kirby Version](https://img.shields.io/badge/Kirby-2.3%2B-red.svg)
+
 # Look Down
 Un site web sur l'écocitoyenneté, réalisé dans le cadre de nos études. Il a pour but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écocitoyenneté. Il est développé en HTML, CSS, JavaScript et utilise des librairies telles que AOS.
 Il comporte deux parcours :
