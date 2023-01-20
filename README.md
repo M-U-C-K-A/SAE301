@@ -22,8 +22,8 @@ Notre projet Look Down a été conçu avec une charte graphique sobre et éléga
 >- le blanc #F5F5F5 est pour représenter la pureté du texte,
 >- le noir #1E1E1E pour représenter l'élégance et la sophistication.
 
->La typographie utilisée pour les titres est "Outfit Medium Semibold" pour souligner l'importance des informations présentées. 
->Les paragraphes sont écrits en "Montserrat Regular" pour garantir une lisibilité optimale.
+>- La typographie utilisée pour les titres est "Outfit Medium Semibold" pour souligner l'importance des informations présentées. 
+>- Les paragraphes sont écrits en "Montserrat Regular" pour garantir une lisibilité optimale.
 
 En utilisant une combinaison de couleurs vives et de typographie soignée, nous avons créé un look professionnel et convaincant qui reflète l'importance de l'écologie et de la préservation de notre environnement. Nous espérons que vous apprécierez notre design tout autant que nous l'avons apprécié en le créant.
 
