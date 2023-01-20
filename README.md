@@ -20,14 +20,11 @@ Ouvrez votre navigateur et accédez à l'adresse http://localhost:3000 pour voir
 
 ## Charte graphique
 Notre projet Look Down a été conçu avec une charte graphique sobre et élégante pour refléter l'importance de l'écologie et la nécessité de protéger notre environnement.
-- ![#81CD79](https://placehold.co/15x15/81CD79/81CD79.png) `#f03c15`
-- ![#F5F5F5](https://placehold.co/15x15/F5F5F5/F5F5F5.png) `#c5f015`
-- ![#1E1E1E](https://placehold.co/15x15/1E1E1E/1E1E1E.png) `#1589F0`
 
 > Les couleurs principales utilisées dans le projet sont 
->- le vert `#81CD79` utilisé pour représenter l'écologie et la nature,
->- le blanc `#F5F5F5` est pour représenter la pureté du texte,
->- le noir `#1E1E1E` pour représenter l'élégance et la sophistication.
+>- le vert `#81CD79` ![#81CD79](https://placehold.co/15x15/81CD79/81CD79.png) utilisé pour représenter l'écologie et la nature,
+>- le blanc `#F5F5F5`![#F5F5F5](https://placehold.co/15x15/F5F5F5/F5F5F5.png) est pour représenter la pureté du texte,
+>- le noir `#1E1E1E` ![#1E1E1E](https://placehold.co/15x15/1E1E1E/1E1E1E.png) pour représenter l'élégance et la sophistication.
 
 >- La typographie utilisée pour les titres est "Outfit Medium Semibold" pour souligner l'importance des informations présentées. 
 >- Les paragraphes sont écrits en "Montserrat Regular" pour garantir une lisibilité optimale.
