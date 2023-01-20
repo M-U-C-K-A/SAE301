@@ -65,17 +65,17 @@ button:hover {
 
   ```
   
-``CSS``
-  
+``CSS``  
   ```css
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&family=Outfit:wght@500;600&display=swap');```
-// définir la typographie Montserrat pour les textes par défault
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&family=Outfit:wght@500;600&display=swap');
+  ```
+> définir la typographie Montserrat pour les textes par défault
 ```css
 body {
     font-family: 'Montserrat', sans-serif;
 }
 ```
-  // définir la typographie Outfit pour les titres
+> définir la typographie Outfit pour les titres
 ```css
   h1,
 h2,
