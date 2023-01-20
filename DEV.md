@@ -58,12 +58,7 @@ button:hover {
     border: 2px #81cd79 solid;
 }
 ```
-### Import des Fonts : *Montserrat* et *Outfit* aag  
-  ``HTML``
-  
-```html
-
-  ```
+### Import des Fonts : *Montserrat* et *Outfit*
   
 ``CSS``  
   ```css
@@ -81,4 +76,12 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Outfit', sans-serif;
 }
 ```
+``HTML``
+> le titre va être avec la typographie 'Outfit Medium Semibold' 
+  le paragraphe vas être en 'Montserrat Regular'
+```html
+<h2>Présentation du <strong>film</strong>.</h2>
+<p>Namac dictum metus. Aenean accumsan pretium urna sed lobortis. Fusce blandit luctus blandit. Mauris a porttitor. Maecenas faucibus eu orci dignissim dignissim. Aliquam maximus suscipit nisi ac fringilla.</p>
+  ```
+  
 > Cela permet d'utiliser ces polices sur toutes les pages du site, donnant une apparence professionnelle et cohérente à notre contenu.
