@@ -5,3 +5,19 @@
 [**Francais**](https://github.com/M-U-C-K-A/SAE301/blob/main/README.md)
 [**English**](https://github.com/M-U-C-K-A/SAE301/blob/main/README.en.md)
 [**Programmation**](https://github.com/M-U-C-K-A/SAE301/blob/main/DEV.md)
+
+## Code Overview
+Notre projet, intitulé "Look Down", est un site web sur l'écocitoyenneté développé en HTML, CSS et JavaScript. Il a été conçu dans le but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écocitoyenneté. Il comporte deux parcours : "Film" et "Agir".
+
+## HTML Structure
+La structure de notre site est divisée en trois sections principales : l'en-tête, le contenu principal et le pied de page. Le contenu principal est divisé en sections supplémentaires pour présenter les différentes sections du site.
+
+## CSS Design
+Notre projet a été conçu avec une charte graphique sobre et élégante pour refléter l'importance de l'écologie et la nécessité de protéger notre environnement. Nous avons utilisé des couleurs principales telles que le vert pour représenter l'écologie et la nature, le blanc pour représenter la pureté du texte et le noir pour représenter l'élégance et la sophistication.
+
+- Pour les titres, nous avons utilisé la police "Outfit Medium Semibold" pour souligner l'importance des informations présentées. 
+- Pour les paragraphes, nous avons importé les polices de caractères 'Montserrat' et 'Outfit' à partir de Google Fonts. Nous avons ensuite défini ces polices de caractères pour être utilisées dans tout le site en définissant la propriété font-family pour les éléments body et pour les titres (h1 à h6).
+
+> Pour les couleurs, nous avons choisi un fond de couleur noir (#1e1e1e) pour représenter l'élégance et la sophistication, et une couleur blanche (#f5f5f5) pour le texte afin de garantir une bonne lisibilité. La couleur principale utilisée dans le projet est le vert (#81cd79) pour représenter l'écologie et la nature.
+
+> Pour les boutons, nous avons utilisé deux classes de boutons différentes, .mainButton et .secondaryButton. Les boutons principaux ont une couleur de fond verte (#81cd79) et une bordure verte pour correspondre à la couleur principale du site, tandis que les boutons secondaires ont une couleur de fond transparente et une bordure verte pour les différencier des boutons principaux.
