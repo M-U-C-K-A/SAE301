@@ -1,10 +1,10 @@
 # Look Down
-Un site web sur l'écologie, réalisé dans le cadre de nos études. Il a pour but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écologie. Il est développé en HTML, CSS, JavaScript et utilise des librairies telles que AOS.
+Un site web sur l'écocitoyenneté, réalisé dans le cadre de nos études. Il a pour but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écocitoyenneté. Il est développé en HTML, CSS, JavaScript et utilise des librairies telles que AOS.
 Il comporte deux parcours :
 
 <ol>
 <li>Le parcours "Film" : Il présente le film sélectionné et les informations à son sujet. Il comprend également des informations sur notre projet et les raisons qui nous ont poussé à le réaliser.</li>
-<li>Le parcours "Agir" : Il propose des quizz sur l'écologie et des informations sur les actions concrètes que chacun peut mettre en place pour protéger l'environnement. Il vous permet également de vous engager à prendre des actions et de partager votre engagement avec vos amis sur les réseaux sociaux.</li>
+<li>Le parcours "Agir" : Il propose des quizz sur l'écocitoyenneté et des informations sur les actions concrètes que chacun peut mettre en place pour protéger l'environnement. Il vous permet également de vous engager à prendre des actions et de partager votre engagement avec vos amis sur les réseaux sociaux.</li>
 </ol>
 
 ## Installation
@@ -12,7 +12,7 @@ Téléchargez ou clonez ce dépôt
 Installez les dépendances en utilisant la commande npm install
 Lancez le site en utilisant la commande npm start
 ## Utilisation
-Ouvrez votre navigateur et accédez à l'adresse http://localhost:3000 pour voir le site en action. Vous pouvez naviguer à travers les différentes sections du site pour en savoir plus sur l'écologie et sur le film en question.
+Ouvrez votre navigateur et accédez à l'adresse http://localhost:3000 pour voir le site en action. Vous pouvez naviguer à travers les différentes sections du site pour en savoir plus sur l'écocitoyenneté et sur le film en question.
 
 ## Contribution
 Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site. Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous:
