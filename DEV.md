@@ -63,8 +63,8 @@ button:hover {
 ```
 ### Import des Fonts : *Montserrat* et *Outfit*
    
-> **Warning**
-> attention a ne pas utiliser trop de CDN, ce qui ralonge le temp de chargement du site
+**Warning**
+attention a ne pas utiliser trop de CDN, ce qui ralonge le temp de chargement du site
 
 ``CSS``  
   ```css
