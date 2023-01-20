@@ -31,10 +31,10 @@ En utilisant une combinaison de couleurs vives et de typographie soignée, nous 
 Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site. Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous:
 <ol>
 <li>Faites un fork de ce dépôt</li>
-<li>Créez une nouvelle branche ( _git checkout -b my-new-feature_ )</li>
-<li>Faites des modifications et commit ( `git commit -am 'Add some feature'` )</li>
-<li>Poussez sur votre branche ( `git push origin my-new-feature`)</li>
-  <li>Faites une demande de tirage ( `pull request` )</li>
+<li>Créez une nouvelle branche ( git checkout -b my-new-feature )</li>
+<li>Faites des modifications et commit ( git commit -am 'Add some feature' )</li>
+<li>Poussez sur votre branche ( git push origin my-new-feature )</li>
+  <li>Faites une demande de tirage ( pull request )</li>
 </ol>
 
 ## Crédits
