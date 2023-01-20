@@ -58,5 +58,5 @@ Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site
 
 ## Licence
 - Ce projet est sous licence libre, vous pouvez donc le modifier, le distribuer et l'utiliser à votre guise.
-- MIT
+- Le code source du projet est réutilisable librement sous la license MIT.
 <blockquote>Copyright (c) 2023 Nabil Boukhorissa, Hugo Delacour</blockquote>
