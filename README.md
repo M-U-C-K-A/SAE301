@@ -16,6 +16,7 @@ Ouvrez votre navigateur et accédez à l'adresse http://localhost:3000 pour voir
 
 ## Charte graphique
 Notre projet Look Down a été conçu avec une charte graphique sobre et élégante pour refléter l'importance de l'écologie et la nécessité de protéger notre environnement.
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
 >Les couleurs principales utilisées dans le projet sont 
 >- le vert #81CD79 utilisé pour représenter l'écologie et la nature,
@@ -30,13 +31,11 @@ En utilisant une combinaison de couleurs vives et de typographie soignée, nous 
 ## Contribution
 Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site. Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous:
 <ol>
-```
 <li>Faites un fork de ce dépôt</li>
 <li>Créez une nouvelle branche ( git checkout -b my-new-feature )</li>
 <li>Faites des modifications et commit ( git commit -am 'Add some feature' )</li>
 <li>Poussez sur votre branche ( git push origin my-new-feature )</li>
   <li>Faites une demande de tirage ( pull request )</li>
-```
 </ol>
 
 ## Crédits
