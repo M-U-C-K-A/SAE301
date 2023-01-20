@@ -68,5 +68,22 @@ button:hover {
 ``CSS``
   
   ```css
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&family=Outfit:wght@500;600&display=swap');```
+// définir la typographie Montserrat pour les textes par défault
+```css
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 ```
+  // définir la typographie Outfit pour les titres
+```css
+  h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Outfit', sans-serif;
+}
+```
+> Cela permet d'utiliser ces polices sur toutes les pages du site, donnant une apparence professionnelle et cohérente à notre contenu.
