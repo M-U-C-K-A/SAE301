@@ -24,6 +24,7 @@ Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site
   <li>Faites une demande de tirage (pull request)</li>
 </ol>
 ## Crédits
+
 > Ce projet a été réalisé dans le cadre de nos études universitaires par Nabil Boukhorissa et Hugo Delacour. Il a été supervisé par le professeur C. Pique.
 
 Nabil Boukhorissa a été responsable de la conception et de la mise en place de la structure globale du site, ainsi que de la mise en place des différents quizz et des fonctionnalités d'engagement.
