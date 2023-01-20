@@ -3,7 +3,7 @@ Un site web sur l'écocitoyenneté, réalisé dans le cadre de nos études. Il a
 Il comporte deux parcours :
 
 <ol>
-<li>Le parcours "Film" : Il présente le film sélectionné et les informations à son sujet. Il comprend également des informations sur notre projet et les raisons qui nous ont poussé à le réaliser.</li>
+<li>Le parcours "*Film*" : Il présente le film sélectionné et les informations à son sujet. Il comprend également des informations sur notre projet et les raisons qui nous ont poussé à le réaliser.</li>
 <li>Le parcours "Agir" : Il propose des quizz sur l'écocitoyenneté et des informations sur les actions concrètes que chacun peut mettre en place pour protéger l'environnement. Il vous permet également de vous engager à prendre des actions et de partager votre engagement avec vos amis sur les réseaux sociaux.</li>
 </ol>
 
