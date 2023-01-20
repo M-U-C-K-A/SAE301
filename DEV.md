@@ -23,7 +23,14 @@ Notre projet a été conçu avec une charte graphique sobre et élégante pour r
 > Pour les boutons, nous avons utilisé deux classes de boutons différentes, .mainButton et .secondaryButton. Les boutons principaux ont une couleur de fond verte (#81cd79) et une bordure verte pour correspondre à la couleur principale du site, tandis que les boutons secondaires ont une couleur de fond transparente et une bordure verte pour les différencier des boutons principaux.
 > Pour créer les boutons, nous avons utilisé les éléments HTML <button> et leur avons donné une classe pour pouvoir les styliser avec CSS. Nous avons également utilisé la propriété :hover pour ajouter une animation lorsque l'utilisateur passe sa souris sur le bouton.
   
-```css
+### création des bouttons :  
+```html
+  
+            <button class="mainButton">Look Down</button>
+            <button class="secondaryButton">Comment Agir</button>
+  ```
+
+  ```css
 button {
     height: 2em;
     width: 8em;
