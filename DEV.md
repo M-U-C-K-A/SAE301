@@ -81,7 +81,7 @@ h1,h2,h3,h4,h5,h6 {
   le paragraphe vas être en 'Montserrat Regular'
 ```html
 <h2>Présentation du <strong>film</strong>.</h2>
-<p>Namac dictum metus. Aenean accumsan pretium urna sed lobortis. Fusce blandit luctus blandit. Mauris a porttitor. Maecenas faucibus eu orci dignissim dignissim. Aliquam maximus suscipit nisi ac fringilla.</p>
+<p>Namac dictum metus. Aenean accumsan pretium urna sed lobortis. Aliquam maximus suscipit nisi ac fringilla.</p>
   ```
 > **Note**
 > ici le mot film dans le titre vas être en vert dû au balise strong
