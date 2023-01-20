@@ -83,5 +83,7 @@ h1,h2,h3,h4,h5,h6 {
 <h2>Présentation du <strong>film</strong>.</h2>
 <p>Namac dictum metus. Aenean accumsan pretium urna sed lobortis. Fusce blandit luctus blandit. Mauris a porttitor. Maecenas faucibus eu orci dignissim dignissim. Aliquam maximus suscipit nisi ac fringilla.</p>
   ```
+ > ![NOTE] ici le mot film dans le titre vas être en vert dû au balise strong
+ 
   
 > Cela permet d'utiliser ces polices sur toutes les pages du site, donnant une apparence professionnelle et cohérente à notre contenu.
