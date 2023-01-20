@@ -86,5 +86,6 @@ h1,h2,h3,h4,h5,h6 {
 > **Note**
 > ici le mot film dans le titre vas être en vert dû au balise strong
 > Cela permet d'utiliser ces polices sur toutes les pages du site, donnant une apparence professionnelle et cohérente à notre contenu.
+  
 > **Warning**
 > attention a ne pas utiliser trop de CDN, ce qui ralonge le temp de chargement du site
