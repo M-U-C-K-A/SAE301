@@ -14,6 +14,18 @@ Lancez le site en utilisant la commande npm start
 ## Utilisation
 Ouvrez votre navigateur et accédez à l'adresse http://localhost:3000 pour voir le site en action. Vous pouvez naviguer à travers les différentes sections du site pour en savoir plus sur l'écocitoyenneté et sur le film en question.
 
+## Charte graphique
+Notre projet Look Down a été conçu avec une charte graphique sobre et élégante pour refléter l'importance de l'écologie et la nécessité de protéger notre environnement.
+
+>Les couleurs principales utilisées dans le projet sont 
+>le vert #81CD79 utilisé pour représenter l'écologie et la nature,
+>le blanc #F5F5F5 est pour représenter la pureté du texte,
+>le noir #1E1E1E pour représenter l'élégance et la sophistication.
+
+>La typographie utilisée pour les titres est "Outfit Medium Semibold" pour souligner l'importance des informations présentées. Les paragraphes sont écrits en "Montserrat Regular" pour garantir une lisibilité optimale.
+
+En utilisant une combinaison de couleurs vives et de typographie soignée, nous avons créé un look professionnel et convaincant qui reflète l'importance de l'écologie et de la préservation de notre environnement. Nous espérons que vous apprécierez notre design tout autant que nous l'avons apprécié en le créant.
+
 ## Contribution
 Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site. Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous:
 <ol>
