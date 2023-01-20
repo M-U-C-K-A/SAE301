@@ -1,5 +1,11 @@
 # Look Down
 Un site web sur l'écologie, réalisé dans le cadre de nos études. Il a pour but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écologie. Il est développé en HTML, CSS, JavaScript et utilise des librairies telles que AOS.
+Il comporte deux parcours :
+
+<ol>
+<li>Le parcours "Film" : Il présente le film sélectionné et les informations à son sujet. Il comprend également des informations sur notre projet et les raisons qui nous ont poussé à le réaliser.</li>
+<li>Le parcours "Agir" : Il propose des quizz sur l'écologie et des informations sur les actions concrètes que chacun peut mettre en place pour protéger l'environnement. Il vous permet également de vous engager à prendre des actions et de partager votre engagement avec vos amis sur les réseaux sociaux.</li>
+</ol>
 
 ## Installation
 Téléchargez ou clonez ce dépôt
@@ -17,7 +23,7 @@ Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site
 <li>Poussez sur votre branche (git push origin my-new-feature)</li>
   <li>Faites une demande de tirage (pull request)</li>
 </ol>
-  Crédits
+## Crédits
 Réalisé par Nabil et Hugo
 Licence
 Ce projet est sous licence libre, vous pouvez donc le modifier, le distribuer et l'utiliser à votre guise.
