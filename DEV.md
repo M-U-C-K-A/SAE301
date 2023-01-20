@@ -24,12 +24,15 @@ Notre projet a été conçu avec une charte graphique sobre et élégante pour r
 > Pour créer les boutons, nous avons utilisé les éléments HTML <button> et leur avons donné une classe pour pouvoir les styliser avec CSS. Nous avons également utilisé la propriété :hover pour ajouter une animation lorsque l'utilisateur passe sa souris sur le bouton.
   
 ### création des bouttons :  
-```html
+  ``HTML``
   
-            <button class="mainButton">Look Down</button>
-            <button class="secondaryButton">Comment Agir</button>
+```html
+<button class="mainButton">Look Down</button>
+<button class="secondaryButton">Comment Agir</button>
   ```
-
+  
+``HTML``
+  
   ```css
 button {
     height: 2em;
