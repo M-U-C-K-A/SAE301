@@ -12,7 +12,5 @@ Ouvrez le fichier index.html dans votre navigateur pour accéder au site web
 ## Contribution
 Nous sommes ravis d'accueillir toutes les contributions à ce projet. Si vous souhaitez apporter une modification ou ajouter une fonctionnalité, veuillez soumettre une demande de tirage en utilisant la fonctionnalité GitHub appropriée.
 
-<fieldset>
 ## Licence
 Ce projet est sous licence MIT.
-</fieldset>
