@@ -31,13 +31,13 @@ En utilisant une combinaison de couleurs vives et de typographie soignée, nous 
 
 Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site. Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous:
 
-```
+``
 1. Faites un fork de ce dépôt
 2. Créez une nouvelle branche ( git checkout -b my-new-feature )
 3. Faites des modifications et commit ( git commit -am 'Add some feature' )
 4. Poussez sur votre branche ( git push origin my-new-feature )
 5. Faites une demande de tirage ( pull request )
-```
+``
 
 ## Crédits
 <ul>
