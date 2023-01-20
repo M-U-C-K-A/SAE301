@@ -28,7 +28,7 @@ Notre projet Look Down a été conçu avec une charte graphique sobre et éléga
 
 >- La typographie utilisée pour les titres est "Outfit Medium Semibold" pour souligner l'importance des informations présentées.
 > <img src="https://pbs.twimg.com/media/FExQ5rhWYAk4H30.png" height="200">
-----
+---
 >- Les paragraphes sont écrits en "Montserrat Regular" pour garantir une lisibilité optimale.
 > <img src="https://global-uploads.webflow.com/6262d15f87c1ba2d767ce245/6262e212e47c9580030e422d_60570e30650af1d9b7b03cde_montserrat.png" height="200">
 
