@@ -55,5 +55,5 @@ Credits
 
 ## Licence
 - This project is under open-source license, so you can modify, distribute and use it as you wish.
-- MIT
+- The project's source code is freely reusable under the MIT License.
 <blockquote>Copyright (c) 2023 Nabil Boukhorissa, Hugo Delacour</blockquote>
