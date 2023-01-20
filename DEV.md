@@ -62,11 +62,11 @@ button:hover {
 }
 ```
 ### Import des Fonts : *Montserrat* et *Outfit*
-   
-**Warning**
-attention a ne pas utiliser trop de CDN, ce qui ralonge le temp de chargement du site
 
-``CSS``  
+``CSS``     
+> **Warning**
+> attention a ne pas utiliser trop de CDN, ce qui ralonge le temp de chargement du site
+
   ```css
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&family=Outfit:wght@500;600&display=swap');
   ```
