@@ -1,9 +1,9 @@
 ---
-name: Demande de fonctionnalité
-about: Suggérez une idée pour ce projet
-title: ''
-labels: ''
-assignees: ''
+nom: Demande de fonctionnalité
+a propos: Suggérez une idée pour ce projet
+titre: ''
+mot clé: ''
+Assignés: ''
 
 ---
 
