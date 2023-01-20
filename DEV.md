@@ -25,7 +25,7 @@ Notre projet a été conçu avec une charte graphique sobre et élégante pour r
 
 > Pour les boutons, nous avons utilisé deux classes de boutons différentes, .mainButton et .secondaryButton. Les boutons principaux ont une couleur de fond verte (#81cd79) et une bordure verte pour correspondre à la couleur principale du site, tandis que les boutons secondaires ont une couleur de fond transparente et une bordure verte pour les différencier des boutons principaux.
 > Pour créer les boutons, nous avons utilisé les éléments HTML <button> et leur avons donné une classe pour pouvoir les styliser avec CSS. Nous avons également utilisé la propriété :hover pour ajouter une animation lorsque l'utilisateur passe sa souris sur le bouton.
-  
+----
 ### création des bouttons :  
   ``HTML``
   
@@ -61,7 +61,8 @@ button:hover {
     border: 2px #81cd79 solid;
 }
 ```
-### Import des Fonts : *Montserrat* et *Outfit*
+----
+  ### Import des Fonts : *Montserrat* et *Outfit*
 
 ``CSS``     
 > **Warning**
@@ -70,21 +71,21 @@ button:hover {
   ```css
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&family=Outfit:wght@500;600&display=swap');
   ```
-> définir la typographie Montserrat pour les textes par défault
+définir la typographie Montserrat pour les textes par défault
 ```css
 body {
     font-family: 'Montserrat', sans-serif;
 }
 ```
-> définir la typographie Outfit pour les titres
+définir la typographie Outfit pour les titres
 ```css
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Outfit', sans-serif;
 }
 ```
 ``HTML``
-> le titre va être avec la typographie 'Outfit Medium Semibold' 
-  le paragraphe vas être en 'Montserrat Regular'
+- le titre va être avec la typographie 'Outfit Medium Semibold' 
+- le paragraphe vas être en 'Montserrat Regular'
 ```html
 <h2>Présentation du <strong>film</strong>.</h2>
 <p>Namac dictum metus. Aenean accumsan pretium urna sed lobortis. Aliquam maximus suscipit nisi ac fringilla.</p>
