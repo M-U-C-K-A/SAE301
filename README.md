@@ -6,10 +6,8 @@
 Un site web sur l'écocitoyenneté, réalisé dans le cadre de nos études. Il a pour but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écocitoyenneté. Il est développé en HTML, CSS, JavaScript et utilise des librairies telles que AOS.
 Il comporte deux parcours :
 
-<ol>
-  <li>Le parcours "<strong>Film</strong>" : Il présente le film sélectionné et les informations à son sujet. Il comprend également des informations sur notre projet et les raisons qui nous ont poussé à le réaliser.</li>
-<li>Le parcours "<strong>Agir</strong>" : Il propose des quizz sur l'écocitoyenneté et des informations sur les actions concrètes que chacun peut mettre en place pour protéger l'environnement. Il vous permet également de vous engager à prendre des actions et de partager votre engagement avec vos amis sur les réseaux sociaux.</li>
-</ol>
+1. Le parcours "`Film`" : Il présente le film sélectionné et les informations à son sujet. Il comprend également des informations sur notre projet et les raisons qui nous ont poussé à le réaliser.
+2. Le parcours "`Agir`" : Il propose des quizz sur l'écocitoyenneté et des informations sur les actions concrètes que chacun peut mettre en place pour protéger l'environnement. Il vous permet également de vous engager à prendre des actions et de partager votre engagement avec vos amis sur les réseaux sociaux.
 
 ## Installation
 Téléchargez ou clonez ce dépôt
