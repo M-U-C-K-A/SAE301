@@ -2,8 +2,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg) 
 ![SAE301](https://img.shields.io/github/repo-size/M-U-C-K-A/SAE301)
 
-[**Francais**](https://github.com/ryul1206/multilingual-markdown/blob/master/README.md)
-[**English**](https://github.com/ryul1206/multilingual-markdown/blob/master/README.en.md)
+[**Francais**](https://github.com/M-U-C-K-A/SAE301/README.md)
+[**English**](https://github.com/M-U-C-K-A/SAE301/README.en.md)
 
 # Look Down
 Un site web sur l'écocitoyenneté, réalisé dans le cadre de nos études. Il a pour but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écocitoyenneté. Il est développé en HTML, CSS, JavaScript et utilise des librairies telles que AOS.
