@@ -18,13 +18,13 @@ La structure de notre site est divisée en trois sections principales : l'en-tê
 ## CSS Design
 Notre projet a été conçu avec une charte graphique sobre et élégante pour refléter l'importance de l'écologie et la nécessité de protéger notre environnement. Nous avons utilisé des couleurs principales telles que le vert pour représenter l'écologie et la nature, le blanc pour représenter la pureté du texte et le noir pour représenter l'élégance et la sophistication.
 
-- Pour les titres, nous avons utilisé la police "Outfit Medium Semibold" pour souligner l'importance des informations présentées. 
-- Pour les paragraphes, nous avons importé les polices de caractères 'Montserrat' et 'Outfit' à partir de Google Fonts. Nous avons ensuite défini ces polices de caractères pour être utilisées dans tout le site en définissant la propriété font-family pour les éléments body et pour les titres (h1 à h6).
+- Pour les titres, nous avons utilisé la police "**Outfit Medium Semibold**" pour souligner l'importance des informations présentées. 
+- Pour les paragraphes, nous avons importé les polices de caractères '**Montserrat**' à partir de Google Fonts. Nous avons ensuite défini ces polices de caractères pour être utilisées dans tout le site en définissant la propriété font-family pour les éléments body et pour les titres (h1 à h6).
 
-> Pour les couleurs, nous avons choisi un fond de couleur noir (#1e1e1e) pour représenter l'élégance et la sophistication, et une couleur blanche (#f5f5f5) pour le texte afin de garantir une bonne lisibilité. La couleur principale utilisée dans le projet est le vert (#81cd79) pour représenter l'écologie et la nature.
+> Pour les couleurs, nous avons choisi un fond de couleur noir (*#1e1e1e*) pour représenter l'élégance et la sophistication, et une couleur blanche (*#f5f5f5*) pour le texte afin de garantir une bonne lisibilité. La couleur principale utilisée dans le projet est le vert (*#81cd79*) pour représenter l'écologie et la nature.
 
-> Pour les boutons, nous avons utilisé deux classes de boutons différentes, .mainButton et .secondaryButton. Les boutons principaux ont une couleur de fond verte (#81cd79) et une bordure verte pour correspondre à la couleur principale du site, tandis que les boutons secondaires ont une couleur de fond transparente et une bordure verte pour les différencier des boutons principaux.
-> Pour créer les boutons, nous avons utilisé les éléments HTML <button> et leur avons donné une classe pour pouvoir les styliser avec CSS. Nous avons également utilisé la propriété :hover pour ajouter une animation lorsque l'utilisateur passe sa souris sur le bouton.
+> Pour les boutons, nous avons utilisé deux classes de boutons différentes, `.mainButton` et `.secondaryButton.` Les boutons principaux ont une couleur de fond verte (#81cd79) et une bordure verte pour correspondre à la couleur principale du site, tandis que les boutons secondaires ont une couleur de fond transparente et une bordure verte pour les différencier des boutons principaux.
+> Pour créer les boutons, nous avons utilisé les éléments HTML ``<button>`` et leur avons donné une classe pour pouvoir les styliser avec CSS. Nous avons également utilisé la propriété :hover pour ajouter une animation lorsque l'utilisateur passe sa souris sur le bouton.
 ----
 ### création des bouttons :  
   ``HTML``
