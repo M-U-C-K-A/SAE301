@@ -7,7 +7,7 @@
 [**Programmation**](https://github.com/M-U-C-K-A/SAE301/blob/main/DEV.md)
 
 ## Code Overview
-Notre projet, intitulé "Look Down", est un site web sur l'écocitoyenneté développé en HTML, CSS et JavaScript. Il a été conçu dans le but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écocitoyenneté. Il comporte deux parcours : "Film" et "Agir".
+Notre projet, intitulé "**LookDown**", est un site web sur l'écocitoyenneté développé en HTML, CSS et JavaScript. Il a été conçu dans le but de sensibiliser les gens sur l'importance de protéger notre environnement en se basant sur un film sur l'écocitoyenneté. Il comporte deux parcours : "**Film**" et "**Agir**".
 
 ## HTML Structure
 La structure de notre site est divisée en trois sections principales : l'en-tête, le contenu principal et le pied de page. Le contenu principal est divisé en sections supplémentaires pour présenter les différentes sections du site.
