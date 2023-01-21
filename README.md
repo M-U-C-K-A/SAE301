@@ -55,8 +55,6 @@ Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site
 
 >Nous tenons à remercier tous ceux qui nous ont aidés et soutenus dans la réalisation de ce projet, en particulier notre professeur pour sa guidance et ses conseils précieux.
 
->Nous tenons à remercier tous ceux qui nous ont aidés et soutenus dans la réalisation de ce projet, en particulier notre professeur pour sa guidance et ses conseils précieux.
-
 ## Licence
 - Ce projet est sous licence libre, vous pouvez donc le modifier, le distribuer et l'utiliser à votre guise.
 - Le code source du projet est réutilisable librement sous la license MIT.
