@@ -19,7 +19,7 @@ Notre site a été conçu pour être éco-responsable en minimisant les émissio
 ## Pourquoi c'est important
 Les émissions de gaz à effet de serre, comme le dioxyde de carbone, contribuent au changement climatique en réchauffant la planète. Les sites web consomment énormément d'énergie pour fonctionner, et il est donc important de prendre des mesures pour réduire leur impact environnemental. En prenant des mesures pour réduire les émissions de carbone liées à notre site, nous contribuons à la lutte contre le changement climatique.
 
-> En adoptant une approche éco-responsable pour notre site, nous espérons non seulement réduire notre propre impact environnemental, mais aussi inciter d'autres entreprises et individus à en faire de même. Ensemble, nous pouvons faire une différence significative pour protéger notre planète pour les générations futures.
+> **Note** En adoptant une approche éco-responsable pour notre site, nous espérons non seulement réduire notre propre impact environnemental, mais aussi inciter d'autres entreprises et individus à en faire de même. Ensemble, nous pouvons faire une différence significative pour protéger notre planète pour les générations futures.
 
 Voici une liste d'étapes pour la création de notre site web à faible émission de carbone :
 
