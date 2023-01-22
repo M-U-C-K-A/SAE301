@@ -9,7 +9,7 @@
 
 # Low-Carbon Emission Site
 ## Introduction
-Notre site a été conçu pour être éco-responsable en minimisant les émissions de carbone liées à son utilisation. Nous croyons qu'il est important de prendre des mesures pour réduire notre impact environnemental, et nous espérons que notre site servira d'exemple pour d'autres entreprises et individus.
+Notre site a été conçu pour être `éco-responsable` en minimisant les émissions de carbone liées à son utilisation. Nous croyons qu'il est important de prendre des mesures pour réduire notre impact environnemental, et nous espérons que notre site servira d'exemple pour d'autres entreprises et individus.
 
 ## Comment nous avons réduit les émissions de carbone
 - Nous avons utilisé des serveurs verts pour héberger notre site, qui utilisent de l'énergie renouvelable pour fonctionner.
