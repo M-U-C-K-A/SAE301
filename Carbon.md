@@ -20,3 +20,16 @@ Notre site a été conçu pour être éco-responsable en minimisant les émissio
 Les émissions de gaz à effet de serre, comme le dioxyde de carbone, contribuent au changement climatique en réchauffant la planète. Les sites web consomment énormément d'énergie pour fonctionner, et il est donc important de prendre des mesures pour réduire leur impact environnemental. En prenant des mesures pour réduire les émissions de carbone liées à notre site, nous contribuons à la lutte contre le changement climatique.
 
 > En adoptant une approche éco-responsable pour notre site, nous espérons non seulement réduire notre propre impact environnemental, mais aussi inciter d'autres entreprises et individus à en faire de même. Ensemble, nous pouvons faire une différence significative pour protéger notre planète pour les générations futures.
+
+Voici une liste d'étapes pour la création de notre site web à faible émission de carbone :
+
+1. Choisir des fournisseurs d'hébergement verts qui utilisent de l'énergie renouvelable pour alimenter leurs serveurs.
+2. Optimiser les images et les fichiers pour réduire la quantité de données transférées lorsque les utilisateurs accèdent au site.
+3. Utiliser des technologies efficaces en termes d'énergie pour développer le site, telles que des frameworks et des bibliothèques légères.
+4. Utiliser des outils pour mesurer les émissions de carbone liées au site et les optimiser régulièrement.
+5. Sensibiliser les employés et les utilisateurs sur l'importance de réduire les émissions de carbone et les inciter à adopter des comportements éco-responsables.
+6. Faire des audits réguliers pour vérifier que les mesures mises en place sont efficaces et les améliorer en conséquence.
+7. S'engager à continuer à réduire les émissions de carbone liées au site et à en faire la promotion auprès des utilisateurs et des partenaires.
+8. Utiliser des technologies qui permettent de réduire la consommation d'énergie comme les CDN, les protocoles HTTP/2, les polices web et les balises de compression de fichiers.
+9. Utiliser des technologies qui permettent de réduire les requêtes de données comme les PWA, les AMP.
+10. Utiliser des technologies qui permettent de réduire les consommation de bande passante comme les WebSockets, les WebRTC.
