@@ -8,7 +8,7 @@
 [**Low Carbon**](https://github.com/M-U-C-K-A/SAE301/blob/main/Carbon.md)
 
 # Low-Carbon Emission Site
-#" Introduction
+## Introduction
 Notre site a été conçu pour être éco-responsable en minimisant les émissions de carbone liées à son utilisation. Nous croyons qu'il est important de prendre des mesures pour réduire notre impact environnemental, et nous espérons que notre site servira d'exemple pour d'autres entreprises et individus.
 
 ## Comment nous avons réduit les émissions de carbone
