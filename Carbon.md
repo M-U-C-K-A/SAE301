@@ -40,11 +40,10 @@ Les émissions de gaz à effet de serre, comme le dioxyde de carbone, contribuen
 
 > Notre site a été conçu pour minimiser son impact environnemental en réduisant son empreinte carbone. L'empreinte carbone d'un site web dépend de deux facteurs principaux : le poids des données transférées lorsque les utilisateurs accèdent au site, et l'énergie nécessaire pour héberger et gérer le site.
 
-### Poids des données
-Le poids des données transférées lorsque les utilisateurs accèdent au site dépend de la taille des fichiers nécessaires pour afficher les pages. Plus les fichiers sont légers, moins ils consomment d'énergie pour être transférés et moins ils contribuent aux émissions de carbone. Nous avons pris des mesures pour réduire le poids des données transférées en optimisant les images et les fichiers, en utilisant des technologies de compression et en utilisant des technologies efficaces en termes d'énergie pour développer le site.
-
-### Emissions de CO2
-Les émissions de CO2 liées à l'hébergement et à la gestion d'un site web dépendent de l'énergie utilisée pour alimenter les serveurs et les centres de données. Nous avons choisi des fournisseurs d'hébergement verts qui utilisent de l'énergie renouvelable pour alimenter les serveurs et nous avons pris des mesures pour réduire la quantité d'énergie nécessaire pour gérer le site.
+| Empreinte environnementale | Mesures prises pour la réduire |
+|---|---|
+| Poids des données | - Optimisation des images et des fichiers<br>- Utilisation de technologies de compression<br>- Utilisation de technologies efficaces |
+| Emissions de CO2 | - Utilisation de fournisseurs verts<br>- Réduction de la quantité d'énergie nécessaire<br>- Faire des audits régulier pour vérifier la consommation<br> |
 
 ## Conclusion
 En prenant des mesures pour réduire le poids des données transférées et pour utiliser de l'énergie renouvelable pour alimenter les serveurs, nous avons réduit notre empreinte environnementale et contribué à la lutte contre le changement climatique. Nous continuerons à prendre des mesures pour réduire notre impact environnemental et à sensibiliser les utilisateurs sur l'importance de réduire les émissions de carbone.
