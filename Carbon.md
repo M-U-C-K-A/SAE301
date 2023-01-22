@@ -38,5 +38,5 @@ Notre site a été conçu pour minimiser son impact environnemental en réduisan
 10. Utiliser des technologies qui permettent de réduire les consommation de bande passante comme les WebSockets, les WebRTC.
 
 ## Empreinte Environnementale
-- 270ko de données
+- [270ko de données](https://img.shields.io/badge/poid-270Ko-green)
 - 0,14g de co²
