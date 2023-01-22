@@ -21,7 +21,7 @@ Les émissions de gaz à effet de serre, comme le dioxyde de carbone, contribuen
 
 > **Note** En adoptant une approche éco-responsable pour notre site, nous espérons non seulement réduire notre propre impact environnemental, mais aussi inciter d'autres entreprises et individus à en faire de même. Ensemble, nous pouvons faire une différence significative pour protéger notre planète pour les générations futures.
 
-Voici une liste d'étapes pour la création de notre site web à faible émission de carbone :
+## Voici une liste d'étapes pour la création de notre site web à faible émission de carbone :
 
 1. Choisir des fournisseurs d'hébergement verts qui utilisent de l'énergie renouvelable pour alimenter leurs serveurs.
 2. Optimiser les images et les fichiers pour réduire la quantité de données transférées lorsque les utilisateurs accèdent au site.
