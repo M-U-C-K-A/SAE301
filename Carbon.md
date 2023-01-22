@@ -38,4 +38,18 @@ Notre site a été conçu pour minimiser son impact environnemental en réduisan
 10. Utiliser des technologies qui permettent de réduire les consommation de bande passante comme les WebSockets, les WebRTC.
 
 ## Empreinte Environnementale
-![270ko de données](https://img.shields.io/badge/poid-270Ko-brightgreen?style=flat-square) ![0,14g de co²](https://img.shields.io/badge/CO²-0%2C15g-brightgreen?style=flat-square)
+![270ko de données](https://img.shields.io/badge/poid-270Ko-brightgreen?style=flat-square) 
+![0,14g de co²](https://img.shields.io/badge/CO²-0%2C15g-brightgreen?style=flat-square)
+
+### Poids des données
+Le poids des données transférées lorsque les utilisateurs accèdent au site dépend de la taille des fichiers nécessaires pour afficher les pages. Plus les fichiers sont légers, moins ils consomment d'énergie pour être transférés et moins ils contribuent aux émissions de carbone. Nous avons pris des mesures pour réduire le poids des données transférées en optimisant les images et les fichiers, en utilisant des technologies de compression et en utilisant des technologies efficaces en termes d'énergie pour développer le site.
+
+### Emissions de CO2
+Les émissions de CO2 liées à l'hébergement et à la gestion d'un site web dépendent de l'énergie utilisée pour alimenter les serveurs et les centres de données. Nous avons choisi des fournisseurs d'hébergement verts qui utilisent de l'énergie renouvelable pour alimenter les serveurs et nous avons pris des mesures pour réduire la quantité d'énergie nécessaire pour gérer le site.
+
+## Conclusion
+En prenant des mesures pour réduire le poids des données transférées et pour utiliser de l'énergie renouvelable pour alimenter les serveurs, nous avons réduit notre empreinte environnementale et contribué à la lutte contre le changement climatique. Nous continuerons à prendre des mesures pour réduire notre impact environnemental et à sensibiliser les utilisateurs sur l'importance de réduire les émissions de carbone.
+
+
+
+
