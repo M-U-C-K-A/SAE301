@@ -36,7 +36,7 @@ Notre site a été conçu pour minimiser son impact environnemental en réduisan
 8. Utiliser des technologies qui permettent de réduire la consommation d'énergie comme les CDN, les protocoles HTTP/2, les polices web et les balises de compression de fichiers.
 9. Utiliser des technologies qui permettent de réduire les requêtes de données comme les PWA, les AMP.
 10. Utiliser des technologies qui permettent de réduire les consommation de bande passante comme les WebSockets, les WebRTC.
-
+------
 ## Empreinte Environnementale
 ![270ko de données](https://img.shields.io/badge/poid-270Ko-brightgreen?style=flat-square) 
 ![0,14g de co²](https://img.shields.io/badge/CO²-0%2C15g-brightgreen?style=flat-square)
