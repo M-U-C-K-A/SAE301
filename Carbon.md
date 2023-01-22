@@ -21,9 +21,6 @@ Les émissions de gaz à effet de serre, comme le dioxyde de carbone, contribuen
 
 > **Note** En adoptant une approche éco-responsable pour notre site, nous espérons non seulement réduire notre propre impact environnemental, mais aussi inciter d'autres entreprises et individus à en faire de même. Ensemble, nous pouvons faire une différence significative pour protéger notre planète pour les générations futures.
 
-## Empreinte environnementale de notre site
-Notre site a été conçu pour minimiser son impact environnemental en réduisant son empreinte carbone. L'empreinte carbone d'un site web dépend de deux facteurs principaux : le poids des données transférées lorsque les utilisateurs accèdent au site, et l'énergie nécessaire pour héberger et gérer le site.
-
 ## Voici une liste d'étapes pour la création de notre site web à faible émission de carbone :
 
 1. Choisir des fournisseurs d'hébergement verts qui utilisent de l'énergie renouvelable pour alimenter leurs serveurs.
@@ -40,6 +37,7 @@ Notre site a été conçu pour minimiser son impact environnemental en réduisan
 ## Empreinte Environnementale
 ![270ko de données](https://img.shields.io/badge/poid-270Ko-brightgreen?style=flat-square) 
 ![0,14g de co²](https://img.shields.io/badge/CO²-0%2C15g-brightgreen?style=flat-square)
+Notre site a été conçu pour minimiser son impact environnemental en réduisant son empreinte carbone. L'empreinte carbone d'un site web dépend de deux facteurs principaux : le poids des données transférées lorsque les utilisateurs accèdent au site, et l'énergie nécessaire pour héberger et gérer le site.
 
 ### Poids des données
 Le poids des données transférées lorsque les utilisateurs accèdent au site dépend de la taille des fichiers nécessaires pour afficher les pages. Plus les fichiers sont légers, moins ils consomment d'énergie pour être transférés et moins ils contribuent aux émissions de carbone. Nous avons pris des mesures pour réduire le poids des données transférées en optimisant les images et les fichiers, en utilisant des technologies de compression et en utilisant des technologies efficaces en termes d'énergie pour développer le site.
