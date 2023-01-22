@@ -21,6 +21,12 @@ Les émissions de gaz à effet de serre, comme le dioxyde de carbone, contribuen
 
 > **Note** En adoptant une approche éco-responsable pour notre site, nous espérons non seulement réduire notre propre impact environnemental, mais aussi inciter d'autres entreprises et individus à en faire de même. Ensemble, nous pouvons faire une différence significative pour protéger notre planète pour les générations futures.
 
+## Empreinte environnementale de notre site
+Notre site a été conçu pour minimiser son impact environnemental en réduisant son empreinte carbone. L'empreinte carbone d'un site web dépend de deux facteurs principaux : 
+> le poids des données transférées lorsque les utilisateurs accèdent au site, et 
+
+> l'énergie nécessaire pour héberger et gérer le site.
+
 ## Voici une liste d'étapes pour la création de notre site web à faible émission de carbone :
 
 1. Choisir des fournisseurs d'hébergement verts qui utilisent de l'énergie renouvelable pour alimenter leurs serveurs.
