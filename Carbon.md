@@ -39,4 +39,4 @@ Notre site a été conçu pour minimiser son impact environnemental en réduisan
 
 ## Empreinte Environnementale
 - ![270ko de données](https://img.shields.io/badge/poid-270Ko-green)
-- 0,14g de co²
+- ![0,14g de co²](https://img.shields.io/badge/CO²-0%2C15g-brightgreen)
