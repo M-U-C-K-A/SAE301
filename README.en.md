@@ -49,7 +49,7 @@ We are open to contributions and suggestions to improve the website. If you woul
 Please keep in mind that all contributions must be consistent with the project's graphic charter and respect the project's goal of raising awareness about eco-citizenship.
 
 Credits
-- Nabil Boukhorissa was responsible for the overall design and structure of the website, as well as the implementation of the various quizzes and engagement features.
+- `Nabil Boukhorissa was responsible for the overall design and structure of the website, as well as the implementation of the various quizzes and engagement features.
 - Hugo Delacour was responsible for the layout and formatting of the content, as well as the implementation of the movie presentation section.
 - Under the supervision of C. Pique, we worked together to finalize the project and make it accessible to the public.
 
