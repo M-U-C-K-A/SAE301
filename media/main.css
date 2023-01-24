@@ -34,6 +34,9 @@ strong {
 p {
     text-align: justify;
 }
+em {
+    font-size: 2rem;
+}
 
 button {
     height: 2em;
@@ -57,4 +60,16 @@ button:hover {
     background-color: transparent;
     color: white;
     border: 2px #81cd79 solid;
+}
+@media (max-width: 480px) {
+    body {
+        width: 95%;
+        margin: 5px;
+    }
+    * {
+        text-align: left !important;
+    }
+    img {
+        width: 70%;
+    }
 }
