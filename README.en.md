@@ -50,7 +50,7 @@ Please keep in mind that all contributions must be consistent with the project's
 
 Credits
 - `Nabil Boukhorissa` was responsible for the overall design and structure of the website, as well as the implementation of the various quizzes and engagement features.
-- `Hugo Delacour was responsible for the layout and formatting of the content, as well as the implementation of the movie presentation section.
+- `Hugo Delacour` was responsible for the layout and formatting of the content, as well as the implementation of the movie presentation section.
 - Under the supervision of C. Pique, we worked together to finalize the project and make it accessible to the public.
 
 >We would like to thank everyone who helped and supported us in the realization of this project, especially our teacher for her guidance and valuable advice.
