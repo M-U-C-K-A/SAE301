@@ -51,7 +51,7 @@ Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site
 
 ## Crédits
 - `Nabil Boukhorissa` a été responsable de la conception et de la mise en place de la structure globale du site, ainsi que de la mise en place des différents quizz et des fonctionnalités d'engagement.
-- Hugo Delacour a été responsable de la mise en place de la mise en page et de la mise en forme du contenu, ainsi que de la mise en place de la section de présentation du film.
+- `Hugo Delacour a été responsable de la mise en place de la mise en page et de la mise en forme du contenu, ainsi que de la mise en place de la section de présentation du film.
 - Sous la supervision de C. Pique, nous avons travaillé ensemble pour finaliser le projet et le rendre accessible au public.
 
 >Nous tenons à remercier tous ceux qui nous ont aidés et soutenus dans la réalisation de ce projet, en particulier notre professeur pour sa guidance et ses conseils précieux.
