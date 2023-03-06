@@ -1,4 +1,70 @@
-.left {
-    float: left;
-    border: 5px solid salmon;
+html{
+    margin: 0;
+    padding: 0;
 }
+
+header{
+    margin-bottom: 150px;
+}
+
+section:first-child{
+    margin-bottom: 300px;
+}
+
+img{
+    border-radius: 5px;
+    position: relative;
+    width: 30%;
+}
+
+section:first-child :first-child{
+    border-radius: 5px;
+    position: relative;
+    width: 25%;
+}
+section:first-child img{
+    float: right;
+    margin: 0 250px;
+}
+
+.left{
+    float: left !important;
+  }
+  
+  img:nth-of-type(odd) {
+    float: right;
+  }
+
+  article{
+    margin-bottom: 250px;
+  }
+
+article > img{
+    margin: 0 150px;
+  }
+
+  p{
+    text-align: left;
+    line-height: 1.2em;
+  }
+
+  h1{
+    margin-bottom: 15px;
+    font-size: 3em;
+  }
+
+  h2{
+    margin-bottom: 15px;
+    font-size: 2.5em;
+  }
+  footer ul {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+footer ul li:nth-child(3) i.fa-brands{
+    margin-left: 5px;
+    font-size: 1.5em !important;
+}
+ 
