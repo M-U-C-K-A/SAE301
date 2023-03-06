@@ -98,5 +98,18 @@ footer ul li:nth-child(3) i.fa-brands{
     header ul span { 
         display: table-column;
     }
-
+}
+@media only screen and (min-width: 1000px) {
+    body {
+   max-width: 1080px;
+   display: block;
+   margin: 15px auto;
+}
+}
+@media only screen and (max-width: 700px) {
+     ul span { 
+        display: flex;
+        flex-wrap: wrap;
+        display: block;
+    }
 }

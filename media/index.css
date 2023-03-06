@@ -1,0 +1,47 @@
+
+.hero {
+    text-align: center;
+    display: block;
+    margin-bottom:100px ;
+}
+.hero > p {
+    max-width: 500px;
+    margin: 15px auto;
+    text-align: center;
+}
+.logo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: nowrap;
+    position: relative;
+    margin-bottom:100px ;
+}
+.logo > li {
+    margin: 10px auto;
+}
+.presentation {
+    margin-bottom:150px ;
+
+}
+.presentation> img {
+    float: left;
+    margin: 0 10px;
+
+}
+.presentation > h2 {
+    margin-bottom:10px ;
+}
+.voir > h2 {
+    text-align: center;
+    margin-bottom:50px ;
+
+}
+.voir >article> img {
+    float: right;
+    margin: 0 10px;
+}
+.voir > article > p {
+    text-align: left;
+    min-height: 350px;
+}
