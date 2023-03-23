@@ -14,7 +14,7 @@ section:first-child{
 img{
     border-radius: 5px;
     position: relative;
-    width: 30%;
+    width: 35%;
 }
 
 section:first-child :first-child{
@@ -40,7 +40,7 @@ section:first-child img{
   }
 
 article > img{
-    margin: 0 150px;
+    margin: 0 120px;
   }
 
   p{

@@ -1,4 +1,11 @@
 
+
+header{
+    margin-bottom: 150px;
+}
+h1{
+    font-size: 2.5em;
+}
 .hero {
     text-align: center;
     display: block;
@@ -44,4 +51,16 @@
 .voir > article > p {
     text-align: left;
     min-height: 350px;
+}
+
+img{
+    border-radius: 8px;
+}
+
+.secondaryButton{
+    align-items: center;
+}
+
+h3{
+    margin-bottom: 20px;
 }

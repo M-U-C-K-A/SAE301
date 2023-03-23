@@ -34,10 +34,35 @@ strong {
 p {
     text-align: justify;
 }
+
+p, li{
+    font-size: 1.2em;
+    line-height: 25px;
+} 
+
+  nav a::after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #ffffff;
+    transition: width 0.3s;
+  }
+  nav a:hover::after {
+    width: 100%;
+  }
+nav a.active::after {
+    background-color: #81cd79;
+}
+
+
 em {
     font-size: 2rem;
 }
-
+.active {
+    font-weight: bold;
+    color: #81cd79;
+}
 button {
     height: 2em;
     width: 8em;
