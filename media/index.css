@@ -33,7 +33,7 @@ h1{
 }
 .presentation> img {
     float: left;
-    margin: 0 10px;
+    margin: 0 10px; 
 
 }
 .presentation > h2 {
@@ -63,4 +63,16 @@ img{
 
 h3{
     margin-bottom: 20px;
+}
+#trois {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pres {
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
