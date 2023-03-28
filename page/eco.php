@@ -20,7 +20,7 @@
                 <li><a href="#">Accueil</a></li>
                 <li><a href="page/about.html">À propos</a></li>
                 <li><a href="page/agir.html">Agir</a></li>
-                <li><a href="page/eco.html">Eco résponsable</a></li>
+                <li><a href="page/eco.html">Quizz</a></li>
             </span>
         </ul>
     </header>

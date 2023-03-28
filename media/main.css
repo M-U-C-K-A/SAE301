@@ -33,12 +33,14 @@ strong {
 
 p {
     text-align: justify;
+    font-size: 1.2em;
+
 }
 
 p, li{
     font-size: 1.2em;
-    line-height: 25px;
-} 
+    line-height: 28px;
+}
 
   nav a::after {
     content: "";
@@ -107,8 +109,23 @@ footer ul {
 }
 footer ul li:nth-child(3) i.fa-brands{
     margin-left: 5px;
-    font-size: 1.5em !important;
 }
+
+footer{
+    font-size: 0.8em !important;
+}
+
+footer ol {
+    justify-content: center;
+    display: inline;
+    margin-left: 5px;
+}
+
+.opt{
+text-align: center;
+margin-bottom: 100px;
+}
+
 @media (max-width: 480px) {
     body {
         width: 95%;
@@ -138,3 +155,15 @@ footer ul li:nth-child(3) i.fa-brands{
         display: block;
     }
 }
+
+footer a::after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #ffffff;
+    transition: width 0.3s;
+  }
+  footer a:hover::after {
+    width: 100%;
+  }

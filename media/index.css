@@ -23,17 +23,23 @@ h1{
     flex-wrap: nowrap;
     position: relative;
     margin-bottom:100px ;
+    background-color: #81cd7918;
+    border-radius: 10px;
 }
 .logo > li {
     margin: 10px auto;
 }
+
+.logo > li img {
+width: 150px;}
+
 .presentation {
     margin-bottom:150px ;
 
 }
-.presentation> img {
+.presentation> video {
     float: left;
-    margin: 0 10px; 
+    margin: 0 20px; 
 
 }
 .presentation > h2 {
@@ -53,10 +59,12 @@ h1{
     min-height: 350px;
 }
 
+video{
+    border-radius: 8px;
+}
 img{
     border-radius: 8px;
 }
-
 .secondaryButton{
     align-items: center;
 }

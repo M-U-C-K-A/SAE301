@@ -61,10 +61,15 @@ article > img{
     display: flex;
     gap: 10px;
     margin-top: 15px;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 footer ul li:nth-child(3) i.fa-brands{
     margin-left: 5px;
     font-size: 1.5em !important;
 }
  
+.affiche{
+border-radius: 10px;
+object-fit: contain;
+}
+
