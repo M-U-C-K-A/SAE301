@@ -1,15 +1,19 @@
-strong  {
+strong {
     color: #81cd79;
 }
+
 p {
     margin: 15px;
     font-size: 2em;
     font-family: 'Montserrat', sans-serif;
 }
+
 ul {
     display: flex;
     justify-content: space-around;
+    flex-direction: column;
 }
+
 input[type="submit"] {
     font-size: 2em;
     background-color: transparent;
