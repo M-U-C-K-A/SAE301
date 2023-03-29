@@ -57,11 +57,9 @@ float: right;
 }
 
 
-
 #red-dechets img{
-    align-items: center;
-    width: 30%;
     height: 180px;
+    margin-block: 10px;
 
 }
 
@@ -80,14 +78,14 @@ float: left;
     list-style:circle;
     line-height: 35px;
     font-size: 1.1em;
-
 }
-
 
 #more-about p {
 font-size: 1.2em;
 margin-bottom: 30px;
 font-weight: bold;
+}
 
-
+ol>div>li{
+    margin-top: 20px;
 }

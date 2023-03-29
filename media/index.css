@@ -1,18 +1,19 @@
-header {
+
+
+header{
     margin-bottom: 150px;
 }
 
-h1 {
+
+h1{
     font-size: 2.5em;
 }
-
 .hero {
     text-align: center;
     display: block;
-    margin-bottom: 100px;
+    margin-bottom:100px ;
 }
-
-.hero>p {
+.hero > p {
     max-width: 500px;
     margin: 15px auto;
     text-align: center;
@@ -42,48 +43,43 @@ h1 {
 .logo>li img {
     width: 150px;
 }
-
 .presentation {
-    margin-bottom: 150px;
-}
+    margin-bottom:150px ;
 
-.presentation>video {
+}
+.presentation> video {
     float: left;
-    margin: 0 20px;
-}
+    margin: 0 20px; 
 
-.presentation>h2 {
-    margin-bottom: 10px;
 }
-
-.voir>h2 {
+.presentation > h2 {
+    margin-bottom:10px ;
+}
+.voir > h2 {
     text-align: center;
-    margin-bottom: 50px;
-}
+    margin-bottom:50px ;
 
-.voir>article>img {
+}
+.voir >article> img {
     float: right;
     margin: 0 10px;
 }
-
-.voir>article>p {
+.voir > article > p {
     text-align: left;
     min-height: 350px;
 }
 
-video {
+video{
     border-radius: 8px;
 }
-
-img {
+img{
     border-radius: 8px;
 }
-
-.secondaryButton {
+.secondaryButton{
     align-items: center;
 }
 
-h3 {
+h3{
     margin-bottom: 20px;
 }
 
@@ -92,15 +88,10 @@ h3 {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    
 }
-
 .pres {
     display: flex;
     justify-content: center;
     text-align: center;
-}
-
-.logo_footer {
-    display: flex;
-    flex-direction: row;
 }

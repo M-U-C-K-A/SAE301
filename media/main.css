@@ -50,6 +50,7 @@ p, li{
     background: #ffffff;
     transition: width 0.3s;
   }
+
   nav a:hover::after {
     width: 100%;
   }
@@ -97,6 +98,10 @@ header ul span {
     display: flex;
     gap: 10px;
 }
+
+header span li{
+    margin: 10px;
+}
 header ul> li {
     font-size: 2em;
 }
@@ -123,6 +128,7 @@ footer ol {
 
 .opt{
 text-align: center;
+margin-top: 250px;
 margin-bottom: 100px;
 }
 
@@ -167,3 +173,9 @@ footer a::after {
   footer a:hover::after {
     width: 100%;
   }
+
+  .see{
+    text-decoration: underline;
+    width: 0.5em;
+  }
+
