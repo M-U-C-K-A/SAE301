@@ -60,7 +60,3 @@ Nous sommes ouverts aux contributions et aux suggestions pour améliorer le site
 - Ce projet est sous licence libre, vous pouvez donc le modifier, le distribuer et l'utiliser à votre guise.
 - Le code source du projet est réutilisable librement sous la license MIT.
 <blockquote>Copyright (c) 2023 Nabil Boukhorissa, Hugo Delacour</blockquote>
-
-
-![line_dark](https://github.com/M-U-C-K-A/SAE301/assets/96072629/afe57e90-1f17-40f1-a992-3bcb538d63d3#gh-dark-mode-only)
-![line_light](https://github.com/M-U-C-K-A/SAE301/assets/96072629/cb09e6b9-a082-480e-acdf-2db2f873de66#gh-light-mode-only)
